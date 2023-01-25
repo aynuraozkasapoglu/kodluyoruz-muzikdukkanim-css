@@ -1,2 +1,2 @@
-# CSS-Odevi-1
+# Css-Odevi-1
 css ile yaptıgım muzik dukkanım
